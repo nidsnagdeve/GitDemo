@@ -41,6 +41,9 @@ public class CoreJavaBrusUp1 {
 		}
 		
 		System.out.println(a.contains("selenium"));
+		System.out.println(a.contains("testng"));
+		System.out.println(a.contains("jenkins"));
+		System.out.println(a.contains("git"));
 	}
 
 }
